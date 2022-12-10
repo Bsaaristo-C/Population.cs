@@ -1,0 +1,11 @@
+C:\Users\brian\source\repos\Saaristo-ASG5-Population\Saaristo-ASG5-Population\bin\Debug\Saaristo-ASG5-Population.exe.config
+C:\Users\brian\source\repos\Saaristo-ASG5-Population\Saaristo-ASG5-Population\bin\Debug\Saaristo-ASG5-Population.exe
+C:\Users\brian\source\repos\Saaristo-ASG5-Population\Saaristo-ASG5-Population\bin\Debug\Saaristo-ASG5-Population.pdb
+C:\Users\brian\source\repos\Saaristo-ASG5-Population\Saaristo-ASG5-Population\obj\Debug\Saaristo-ASG5-Population.csproj.AssemblyReference.cache
+C:\Users\brian\source\repos\Saaristo-ASG5-Population\Saaristo-ASG5-Population\obj\Debug\Saaristo-ASG5-Population.csproj.SuggestedBindingRedirects.cache
+C:\Users\brian\source\repos\Saaristo-ASG5-Population\Saaristo-ASG5-Population\obj\Debug\Saaristo_ASG5_Population.Form1.resources
+C:\Users\brian\source\repos\Saaristo-ASG5-Population\Saaristo-ASG5-Population\obj\Debug\Saaristo_ASG5_Population.Properties.Resources.resources
+C:\Users\brian\source\repos\Saaristo-ASG5-Population\Saaristo-ASG5-Population\obj\Debug\Saaristo-ASG5-Population.csproj.GenerateResource.cache
+C:\Users\brian\source\repos\Saaristo-ASG5-Population\Saaristo-ASG5-Population\obj\Debug\Saaristo-ASG5-Population.csproj.CoreCompileInputs.cache
+C:\Users\brian\source\repos\Saaristo-ASG5-Population\Saaristo-ASG5-Population\obj\Debug\Saaristo-ASG5-Population.exe
+C:\Users\brian\source\repos\Saaristo-ASG5-Population\Saaristo-ASG5-Population\obj\Debug\Saaristo-ASG5-Population.pdb
